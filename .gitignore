@@ -1,0 +1,22 @@
+# Secrets — never commit
+backend/.env
+
+# Python
+backend/venv/
+**/__pycache__/
+**/*.pyc
+
+# Node / Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Runtime temp files
+backend/temp_repo_*/
+backend/temp_*.zip

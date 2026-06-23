@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+google-genai
+pydantic
+pathspec
+python-multipart
+python-dotenv
